@@ -1,0 +1,110 @@
+#content-container{
+	section{
+		padding: 60px 0;
+		.table-box{
+			display: table;
+			margin: auto;
+			height:100%;
+			.cell-box{
+				display: table-cell;
+				height: 100%;
+				vertical-align: middle;
+			}
+		}
+		h3{
+			font-size:2em;
+			padding-bottom: 30px;
+		}
+	}
+
+	#about{
+		position: relative;
+		#history{
+			p{
+				font-size: 1.3em;
+				padding-right:60px;
+				line-height: 1.2em;
+				&:first-child{
+					margin-bottom: 30px;
+					font-weight: bold;
+				}
+				&:last-of-type{
+					margin-top: 30px;
+					font-weight: bold;
+				}
+			}
+		}
+		#team{
+			img{
+				position: absolute;
+				width: 100%;
+				height: auto;
+			}
+		}
+	}
+
+	#prestations{
+		background-color: $darkgreen;
+		p, h3, li{
+			color: white;
+		}
+		p{
+			font-weight: bold;
+			font-size: 1.2em;
+			margin-bottom: 15px;
+		}
+		ul{
+			margin-bottom: 30px;
+			list-style: square;
+			padding-left: 15px;
+		}
+		li{
+			margin-bottom: 5px;
+		}
+		.relative{
+			position: relative;
+			width:100%;
+			height:100%;
+			
+			img{
+				position: absolute;
+				width: 90%;
+				height:auto;
+			}
+		}
+	}
+
+	#address{
+		position:relative;
+		padding: 0;
+
+
+		#map{
+			position:absolute;
+			width:100%;
+			height:100%;
+			overflow: hidden;
+			z-index: 2;
+			img{
+				width: 100%;
+				height: auto;
+			}
+		}
+		#map-mobile{
+			display:none;
+		}
+		#address-box{
+			position:absolute;
+			z-index: 3;
+			background-color: white;
+			padding: 30px 30px 30px 0;
+			box-shadow: 2px 2px 5px #ccc;
+			h4{
+				font-size: 2em;
+			}
+			p{
+				font-size: 1.7em;
+			}
+		}
+	}
+}

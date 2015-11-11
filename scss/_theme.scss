@@ -1,0 +1,43 @@
+$darkgreen: #2A203B; //rgb(3, 87, 77); //#2A203B
+$lightgreen: #633B5D; //rgb(0, 134, 110); //#633B5D
+
+$font1: 'gandhi';
+$font2: 'daysregular';
+$font3: 'enigmaticbold';
+$font4: 'amblebold';
+
+.clearer{
+	clear: both;
+}
+
+html, body{
+	height: 100%;
+	position: relative;
+}
+
+h1{
+	font-family: $font1;
+	font-weight: bold;
+	letter-spacing: -0.05em;
+	font-size:3.3em;
+	color: $darkgreen;
+}
+
+h2, h3, h4{
+	font-family: $font4;
+	color: $lightgreen;
+}
+
+a{
+	font-family: $font1;
+	transition: 0.2s;
+	&:hover, &:focus{
+		text-decoration: none;
+		outline: 0;
+	}
+}
+
+p, ul{
+	font-family: $font1;
+	line-height: 1.3em;
+}

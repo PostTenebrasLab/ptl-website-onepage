@@ -1,0 +1,38 @@
+#desktop-navigation, #fixed-desktop-navigation{
+	width:100%;
+	background-color: white;
+	text-align: center;
+	padding: 30px 0;
+	position: absolute;
+	z-index:10;
+	#logo{
+		margin-bottom: 30px;
+	}
+
+	#menu{
+		a{
+			font-size: 1.5em;
+			color: $darkgreen;
+			text-transform: uppercase;
+			&:hover, &:focus{
+				color: $lightgreen;
+			}
+
+		}
+
+		span{
+			color: $lightgreen;
+			padding: 0 30px;
+			font-size: 1.7em;
+			margin-top: -3px;
+			opacity: 0.3;
+		}
+	}
+}
+
+#fixed-desktop-navigation{
+	position:fixed;
+	padding: 15px 0;
+	box-shadow: 1px 1px 3px #ccc;
+	top:-70px;
+}

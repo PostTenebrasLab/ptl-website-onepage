@@ -1,0 +1,17 @@
+footer{
+	position:relative;
+	height: 150px;
+	background-color: $darkgreen;
+	#official-data{
+		position: absolute;
+		bottom: 30px;
+		width: 100%;
+		text-align: center;
+		padding: 5px 0;
+		color: white;
+		a{
+			color: white;
+			text-decoration: underline;
+		}
+	}
+}
