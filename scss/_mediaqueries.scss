@@ -24,9 +24,10 @@
 	}
 	#content-container{
 		#prestations{
-			img{
+			.relative img{
 				width:100%;
 				padding-bottom: 30px;
+				min-height: 330px;
 			}
 		}
 		#about{
@@ -48,8 +49,7 @@
 				}
 			}
 			#address-box{
-				top:auto;
-				bottom:0;
+				padding-top: 60px;
 				width:100%;
 				box-shadow: 0 0 0;
 			}

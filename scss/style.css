@@ -169,10 +169,17 @@ header {
     #content-container #about #history p:last-of-type {
       margin-top: 30px;
       font-weight: bold; }
-  #content-container #about #team img {
-    position: absolute;
+  #content-container #about #team .relative {
+    position: relative;
     width: 100%;
-    height: auto; }
+    height: 330px;
+    overflow: hidden; }
+    #content-container #about #team .relative a {
+      display: block;
+      position: absolute; }
+      #content-container #about #team .relative a img {
+        width: 100%;
+        height: auto; }
 #content-container #prestations {
   background-color: #2A203B; }
   #content-container #prestations p, #content-container #prestations h3, #content-container #prestations li {
@@ -190,11 +197,15 @@ header {
   #content-container #prestations .relative {
     position: relative;
     width: 100%;
-    height: 100%; }
-    #content-container #prestations .relative img {
-      position: absolute;
-      width: 90%;
-      height: auto; }
+    height: 380px;
+    overflow: hidden;
+    margin-bottom: 30px; }
+    #content-container #prestations .relative a {
+      display: block;
+      position: absolute; }
+      #content-container #prestations .relative a img {
+        width: 100%;
+        height: auto; }
 #content-container #address {
   position: relative;
   padding: 0; }
@@ -219,6 +230,20 @@ header {
       font-size: 2em; }
     #content-container #address #address-box p {
       font-size: 1.7em; }
+      #content-container #address #address-box p #map-link {
+        font-size: 0.8em;
+        float: right; }
+    #content-container #address #address-box #other-contact-links {
+      margin-top: 30px;
+      font-size: 1.5em; }
+      #content-container #address #address-box #other-contact-links #social-network {
+        font-size: 1.8em;
+        margin-right: 5px;
+        margin-bottom: 15px; }
+        #content-container #address #address-box #other-contact-links #social-network i, #content-container #address #address-box #other-contact-links #social-network .fa {
+          color: #633B5D; }
+          #content-container #address #address-box #other-contact-links #social-network i:hover, #content-container #address #address-box #other-contact-links #social-network .fa:hover {
+            color: #2A203B; }
 
 footer {
   position: relative;
@@ -251,9 +276,10 @@ footer {
   #menu span {
     display: none; }
 
-  #content-container #prestations img {
+  #content-container #prestations .relative img {
     width: 100%;
-    padding-bottom: 30px; }
+    padding-bottom: 30px;
+    min-height: 330px; }
   #content-container #about #history {
     padding-bottom: 30px; }
     #content-container #about #history p {
@@ -263,8 +289,7 @@ footer {
   #content-container #address #map #map-mobile {
     display: block; }
   #content-container #address #address-box {
-    top: auto;
-    bottom: 0;
+    padding-top: 60px;
     width: 100%;
     box-shadow: 0 0 0; } }
 
