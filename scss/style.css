@@ -248,17 +248,18 @@ header {
 footer {
   position: relative;
   height: 150px;
-  background-color: #2A203B; }
-  footer #official-data {
-    position: absolute;
-    bottom: 30px;
-    width: 100%;
-    text-align: center;
-    padding: 5px 0;
-    color: white; }
-    footer #official-data a {
-      color: white;
-      text-decoration: underline; }
+  background-color: #2A203B;
+  text-align: center;
+  padding: 15px 0; }
+  footer a {
+    display: inline-block;
+    height: 100%;
+    margin-top: 20px;
+    padding: 0 20px; }
+    footer a img {
+      vertical-align: middle;
+      width: auto;
+      height: 60px; }
 
 @media (min-width: 981px) {
   .only-mobile {
