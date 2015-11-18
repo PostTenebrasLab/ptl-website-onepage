@@ -8,7 +8,10 @@
 	}
 }
 
-@media (max-width: 980px) { 
+@media (max-width: 980px) {
+
+	
+
 	#fixed-desktop-navigation{
 		display:none;
 	}
@@ -55,9 +58,19 @@
 			}
 		}
 	}
+	footer{
+		a{
+			display:none;	
+		}
+	}
 }     
 
 @media (max-width: 768px) {
+	header{
+		background-size: 100%;
+    	background-attachment: fixed;
+    	background-position: bottom;
+	}
 	
 }
 

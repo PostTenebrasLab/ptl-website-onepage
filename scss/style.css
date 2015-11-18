@@ -249,13 +249,12 @@ footer {
   position: relative;
   height: 150px;
   background-color: #2A203B;
-  text-align: center;
-  padding: 15px 0; }
+  text-align: center; }
   footer a {
     display: inline-block;
     height: 100%;
     margin-top: 20px;
-    padding: 0 20px; }
+    padding: 20px; }
     footer a img {
       vertical-align: middle;
       width: auto;
@@ -292,6 +291,14 @@ footer {
   #content-container #address #address-box {
     padding-top: 60px;
     width: 100%;
-    box-shadow: 0 0 0; } }
+    box-shadow: 0 0 0; }
+
+  footer a {
+    display: none; } }
+@media (max-width: 768px) {
+  header {
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: bottom; } }
 
 /*# sourceMappingURL=style.css.map */

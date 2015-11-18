@@ -93,7 +93,7 @@
 			<p>Av. de la Praille 36</p>
 			<p>1227 Carouge <a id="map-link" class="only-mobile" href="http://www.openstreetmap.org/?mlat=46.187134981155396&mlon=6.133659482002258&zoom=18"><i class="fa fa-map-marker"></i> map</a></p>
 			<br/>
-			<p><a href="tel:004122560184"><i class="fa fa-phone-square"></i> +41 22.566.01.8 </a></p>
+			<p><a href="tel:004122560187"><i class="fa fa-phone-square"></i> +41 (0)22 566 01 87</a></p>
 			<p><a href="mailto:comite@posttenebraslab.ch">comite@posttenebraslab.ch</a></p>
  			<div id="other-contact-links">
 	 			<div id="social-network">
