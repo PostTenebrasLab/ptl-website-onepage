@@ -253,8 +253,7 @@ footer {
   footer a {
     display: inline-block;
     height: 100%;
-    margin-top: 20px;
-    padding: 20px; }
+    padding: 40px 20px; }
     footer a img {
       vertical-align: middle;
       width: auto;
