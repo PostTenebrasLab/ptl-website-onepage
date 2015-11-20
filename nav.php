@@ -5,5 +5,5 @@
 	<span>|</span>
 	<a href="#address">contact</a>
 	<span>|</span>
-	<a href="http://www.ptl.xyz">wiki</a>
+	<a href="wiki">wiki</a>
 </div>
