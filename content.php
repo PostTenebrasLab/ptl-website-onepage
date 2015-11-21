@@ -85,7 +85,7 @@
 
 <section id="address">
 	<div id="map">
-		<img id="map-desktop" src="img/map.png">
+		<img id="map-desktop" src="img/map.gif">
 	</div>
 	<div id='address-box'>
 		<div id="address-data">
