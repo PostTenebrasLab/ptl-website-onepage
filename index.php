@@ -32,7 +32,7 @@
 		<header>
 			<nav id='desktop-navigation'>
 				<div id="logo">
-				 	<img src="http://www.posttenebraslab.ch/status/img/logo.png">
+				 	<img src="/status/img/logo.png">
 				</div>	
 				<?php include 'nav.php' ?>
 			</nav>
