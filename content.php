@@ -91,18 +91,18 @@
 		<div id="address-data">
 			<h4>Post Tenebras Lab</h4>
 			<p>Av. de la Praille 36</p>
-			<p>1227 Carouge <a id="map-link" class="only-mobile" href="http://www.openstreetmap.org/?mlat=46.187134981155396&mlon=6.133659482002258&zoom=18"><i class="fa fa-map-marker"></i> map</a></p>
+			<p>1227 Carouge <a id="map-link" class="only-mobile" href="https://www.openstreetmap.org/?mlat=46.187134981155396&mlon=6.133659482002258&zoom=18"><i class="fa fa-map-marker"></i> map</a></p>
 			<br/>
 			<p><a href="tel:0041225660187"><i class="fa fa-phone-square"></i> +41 (0)22 566 01 87</a></p>
 			<p><a href="mailto:comite@posttenebraslab.ch">comite@posttenebraslab.ch</a></p>
  			<div id="other-contact-links">
 	 			<div id="social-network">
-	 				<a href="http://twitter.com/posttenebraslab"><i class="fa fa-twitter-square"></i></a>
-	 				<a href="http://www.facebook.com/PTL.CH"><i class="fa fa-facebook-square"></i></a>
-	 				<a href="http://www.youtube.com/user/PostTenebrasLab"><i class="fa fa-youtube-square"></i></a>
+	 				<a href="https://twitter.com/posttenebraslab"><i class="fa fa-twitter-square"></i></a>
+	 				<a href="https://www.facebook.com/PTL.CH"><i class="fa fa-facebook-square"></i></a>
+	 				<a href="https://www.youtube.com/user/PostTenebrasLab"><i class="fa fa-youtube-square"></i></a>
 	 				<a href="https://github.com/PostTenebrasLab"><i class="fa fa-github-square"></i></a><br/>
 	 			</div>
-	 			<a id="mailinglist" href="http://www.posttenebraslab.ch/wiki/mailing_list">Inscription Mailing list</a>
+	 			<a id="mailinglist" href="https://www.posttenebraslab.ch/wiki/mailing_list">Inscription Mailing list</a>
  			</div>
 		</div>
 	</div>
