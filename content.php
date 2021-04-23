@@ -9,7 +9,7 @@
 					<div id='history' class="col-md-6"><p>Un hackerspace est un endroit où amateurs et professionnels peuvent se rencontrer, échanger et collaborer.</p>
 					<br/>
 					<p>Post Tenebras Lab est une association à but non lucratif fondée en 2009. Elle met à disposition un espace, des outils, un savoir faire et une culture technologique pour le création, la modification d'objets et le partage de la connaissance pour passionnés d'informatique, d'électronique, de mécanique, de sciences d'arts et de technologie.</p>
-					<p>Le mardi soir à partir de 19h, le PTL est ouvert à toute personne intéressée afin de partager un repas. Appelez-nous!</p>
+					<p>Pendant la période de COVID, le PTL est ouvert à tout ses membres les mardis à partir de 14h, en respectant les mesures sanitaires légales. Pour les non-membres, vous pouvez nous contacter pour visiter les locaux pendant cette période, ou sur rendez-vous.</p>
 					</div>
 
 					<div id='team' class="col-md-6">
@@ -34,7 +34,7 @@
 		<div class="cell-box">
 			<div class="container">
 				<div class="row">
-					<div  class="col-md-6">
+					<div  class="col-md-8">
 						<div id="links" class="relative slide">
 							<a href="img/electro_lab.jpg" title="L'atelier d'électronique">
 								<img src="img/electro_lab.jpg" alt="L'atelier d'électronique"/>
@@ -56,23 +56,27 @@
 							</a>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-4">
 						
-						<h3>Infrastrucutres et équipements</h3>
+						<h3>Infrastructures et équipements</h3>
 
 						<p>Le Post Tenebras Lab dispose d'un local équipé:</p>
 						<ul>
-							<li>Salle de conférence</li>
 							<li>Atelier d'électronique</li>
-							<li>Atelier de mécanique</li>
+							<li>Atelier bois</li>
+							<li>Atelier métal</li>
 							<li>Espace commun et cuisine</li>
 						</ul>
 						<p>L'équipement s'enrichit au fil du temps:<p>
 						<ul>
 							<li>Imprimantes 3D</li>
 							<li>CNC</li>
+							<li>Perceuses</li>
+							<li>Électroportatifs</li>
+							<li>Scie à bande</li>
 							<li>Fers à souder</li>
 							<li>Oscilloscopes</li>
+							<li>Serveurs</li>
 							<li>Ordinateurs</li>
 						</ul>
 					</div>
