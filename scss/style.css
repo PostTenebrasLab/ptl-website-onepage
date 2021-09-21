@@ -194,11 +194,7 @@ header {
   padding-right: 60px;
   line-height: 1.2em;
 }
-#content-container #about #history p:first-child {
-  margin-bottom: 30px;
-  font-weight: bold;
-}
-#content-container #about #history p:last-of-type {
+#content-container #about #history p b {
   margin-top: 30px;
   font-weight: bold;
 }

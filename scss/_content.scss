@@ -24,11 +24,7 @@
 				font-size: 1.3em;
 				padding-right:60px;
 				line-height: 1.2em;
-				&:first-child{
-					margin-bottom: 30px;
-					font-weight: bold;
-				}
-				&:last-of-type{
+				b {
 					margin-top: 30px;
 					font-weight: bold;
 				}
