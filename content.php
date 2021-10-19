@@ -111,7 +111,8 @@
 		<div id="address-data">
 			<h4>Post Tenebras Lab</h4>
 			<p>Av. de la Praille 36</p>
-			<p>1227 Carouge <a id="map-link" class="only-mobile" href="https://www.openstreetmap.org/?mlat=46.187134981155396&mlon=6.133659482002258&zoom=18"><i class="fa fa-map-marker"></i> map</a></p>
+			<p>1227 Carouge</p>
+			<p><a id="map-link" class="only-mobile" href="https://www.openstreetmap.org/?mlat=46.187134981155396&mlon=6.133659482002258&zoom=18"><i class="fa fa-map-marker"></i> map</a></p>
 			<br/>
 			<p><a href="tel:0041225660187"><i class="fa fa-phone-square"></i> +41 (0)22 566 01 87</a></p>
 			<p><a href="mailto:comite@posttenebraslab.ch">comite@posttenebraslab.ch</a></p>

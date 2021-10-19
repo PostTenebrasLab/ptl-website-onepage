@@ -278,10 +278,6 @@ header {
 #content-container #address #address-box p {
   font-size: 1.7em;
 }
-#content-container #address #address-box p #map-link {
-  font-size: 0.8em;
-  float: right;
-}
 #content-container #address #address-box #other-contact-links {
   margin-top: 30px;
   font-size: 1.5em;
