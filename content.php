@@ -6,10 +6,12 @@
 					
 					<div class="col-md-12"><h3>Qui sommes nous?</h3></div>
 					
-					<div id='history' class="col-md-6"><p><b>Un hackerspace est un endroit où amateurs et professionnels peuvent se rencontrer, échanger et collaborer.</b></p>
-					<p>Post Tenebras Lab est une association à but non lucratif fondée en 2009. Elle met à disposition un espace, des outils, un savoir faire et une culture technologique pour le création, la modification d'objets et le partage de la connaissance pour passionnés d'informatique, d'électronique, de mécanique, de sciences d'arts et de technologie.</p>
-					<p><b>Pendant la période de COVID, le PTL est ouvert à tout ses membres les mardis à partir de 14h. Pour les non-membres, vous pouvez nous contacter pour visiter les locaux pendant cette période, ou sur rendez-vous.</b></p>
-					<p><b>Dans les deux cas, le passe sanitaire vous sera demandé.</b></p>
+					<div id='history' class="col-md-6">
+						<p><b>Un hackerspace est un endroit où amateurs et professionnels peuvent se rencontrer, échanger et collaborer.</b></p>
+						<p><b>Post Tenebras Lab</b> est une association à but non lucratif fondée en 2009. Elle met à disposition <b>un espace, des outils, un savoir faire et une culture technologique</b> pour le création, la modification d'objets et le partage de la connaissance pour passionnés d'informatique, d'électronique, de mécanique, de sciences d'arts et de technologie.</p>
+						<p>Pendant la période de Covid, <b>le PTL est ouvert à tout ses membres <a href="wiki/events/weekly_meeting/weekly_meeting">les mardis soir à partir de 19h</a> pour bricoler et partager un repas</b>. Il sera aussi possible de nous contacter pour <b>venir visiter le lab</b> pendant cette période.</p>
+						<p><b>Le passe Covid sera demandé</b> pour se conformer à la législation en vigueur.</p>
+						<p>Les locaux seront aussi ouvert sur demande les <b>vendredis après-midi entre 14 et 20h</b> pour tout les membres et les visiteurs. Le passe Covid ne sera alors pas demandé mais il est interdit de consommer de la nourriture dans les locaux pendant cette période.</p>
 					</div>
 
 					<div id='team' class="col-md-6">
