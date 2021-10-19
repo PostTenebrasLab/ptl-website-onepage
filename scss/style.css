@@ -370,6 +370,10 @@ footer a img {
     background-attachment: fixed;
     background-position: bottom;
   }
+
+  #content-container #prestations .relative {
+    height: 350px;
+  }
 }
 
-/*# sourceMappingURL=style.new.css.map */
+/*# sourceMappingURL=style.css.map */

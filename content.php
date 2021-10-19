@@ -90,19 +90,14 @@
 </section>
 
 <section id="calendar">
-	<div class='table-box'>
-		<div class="cell-box">
-			<div class="container">
-				<div class="row">
-
-					<div class="col-md-4">
-						
-						<h3>Calendrier</h3>
-					</div>
-					<div  class="col-md-8">
-						<iframe width="100%" height="800px" src="https://cloud.posttenebraslab.ch/apps/calendar/embed/rLfaFE5zJrJXqWZx/listMonth/now"></iframe>
-					</div>
-				</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-2">
+				
+				<h3>Calendrier</h3>
+			</div>
+			<div  class="col-md-10">
+				<iframe width="100%" height="800px" src="https://cloud.posttenebraslab.ch/apps/calendar/embed/rLfaFE5zJrJXqWZx/listMonth/now"></iframe>
 			</div>
 		</div>
 	</div>
